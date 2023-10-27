@@ -93,6 +93,12 @@ const NavBar = () => (
                 >
                   Apprraisal by VIN
                 </a>
+                <a
+                  href="#"
+                  className="inline-flex items-center px-1 pt-1 text-sm font-medium border-b-2 border-transparent hover:text-primary-blue hover:border-gray-300 text-amber-400"
+                >
+                  Resources
+                </a>
               </div>
             </div>
             <div className="absolute inset-y-0 right-0 flex items-center pr-2 sm:static sm:inset-auto sm:ml-6 sm:pr-0">
